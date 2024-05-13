@@ -15,5 +15,7 @@ Utilized advanced analytical techniques and visualization tools to examine the S
 ## Key Findings
 
 1. Product Performance: Through comprehensive analysis, we identified top-performing product categories and identified underperforming segements requring attention and potential optimization.
+2. Seasonal Trends: Analysis variations in sales provided crucial insights in demanding flunctuations, enabling the Supermart to optimize inventory management and promotional strategies throughout the year.
+   
    
 
